@@ -177,7 +177,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - KP 00
+  - {t: '$$mdi:transfer$$', type: trans}
   - KP 0
   - KP DOT
   - KP ENTER
